@@ -3234,6 +3234,10 @@ flatten@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/flatten/-/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782"
 
+font-awesome@^4.7.0:
+  version "4.7.0"
+  resolved "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz#8fa8cf0411a1a31afd07b06d2902bb9fc815a133"
+
 for-in@^1.0.1, for-in@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"
@@ -6383,6 +6387,10 @@ pretty-format@^21.2.1:
   dependencies:
     ansi-regex "^3.0.0"
     ansi-styles "^3.2.0"
+
+primereact@^1.5.2:
+  version "1.5.2"
+  resolved "https://registry.npmjs.org/primereact/-/primereact-1.5.2.tgz#2147e02c73a957503b6e6c53d28bc0d254264741"
 
 private@^0.1.6, private@^0.1.7:
   version "0.1.8"

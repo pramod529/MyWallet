@@ -1,0 +1,21 @@
+.data-table{
+    width: 90%;
+    padding-left: 9%;
+    padding-top: 5%;
+}
+
+.data-table .ui-inputtext{
+    min-height: 25px;
+}
+
+.data-table .data-table-coloumn__quantity .ui-cell-data{
+  float: right;
+}
+
+.data-table .data-table-coloumn__amount .ui-cell-data{
+    float: right;
+}
+
+.data-table .data-table-coloumn__unit .ui-cell-data{
+    float: right;
+}
