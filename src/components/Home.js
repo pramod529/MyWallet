@@ -24,6 +24,9 @@ class Home extends React.Component {
     ));
     return (
       <div className="container">
+        <Link to="/AddToWallet">
+          <button type="submit">Add Expense</button>
+        </Link>
         <table className="data-table">
           <thead>
             <tr>

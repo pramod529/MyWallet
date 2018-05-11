@@ -1,0 +1,154 @@
+.book-of-faces {
+    height: 21px !important;
+    width: 122px !important;
+    color: #FFFFFF !important;
+    font-family: Roboto !important;
+    font-size: 18px !important;
+    line-height: 21px !important; }
+  
+  .face-icon {
+    border-radius: 50% !important;
+    height: 45px !important;
+    width: 45px !important;
+    float: right !important;
+    margin-top: -32px !important; }
+  
+  .face-div-icon {
+    float: right !important; }
+  
+  .pointer {
+    cursor: pointer !important; }
+  
+  .md-background--primary {
+    background-color: #222 !important; }
+  
+  .md-toolbar {
+    height: 1px !important; }
+  
+  .md-layover--simplified {
+    margin-top: -25px; }
+  
+  #userMenu-list {
+    margin-top: 40px;
+    margin-right: 35px; }
+  
+  #profileDetails {
+    height: 728px;
+    width: 1000px; }
+  
+  .md-dialog-content {
+    height: 520px !important;
+    max-height: 520px !important; }
+  
+  .profile-info-img {
+    border-radius: 50% !important;
+    float: left !important;
+    margin-left: 35px !important;
+    height: 300px !important;
+    width: 300px !important; }
+  
+  .profile-info-Desc {
+    float: left;
+    position: absolute;
+    bottom: 0;
+    margin-left: 55px;
+    margin-bottom: 69px;
+    text-align: left; }
+  
+  .profileDetails-title {
+    height: 57px !important;
+    color: #F49D00 !important;
+    font-family: Roboto !important;
+    font-size: 48px !important;
+    line-height: 57px !important;
+    margin-left: 300px !important; }
+  
+  .profileDetails-designation {
+    height: 11px !important;
+    color: rgba(0, 0, 0, 0.56) !important;
+    font-family: Roboto !important;
+    font-size: 18px !important;
+    line-height: 0px !important;
+    text-align: center !important; }
+  
+  .about-me-header {
+    height: 3.29% !important;
+    color: #F49D00 !important;
+    font-family: Roboto !important;
+    font-size: 24px !important;
+    line-height: 28px !important;
+    margin-left: 105px !important;
+    float: left !important; }
+  
+  .about-me {
+    height: 22.24%;
+    color: rgba(0, 0, 0, 0.56);
+    font-family: Roboto;
+    font-size: 18px;
+    line-height: 20px;
+    position: relative;
+    left: 104px;
+    margin-top: 20px;
+    text-align: left; }
+  
+  .manager-header {
+    height: 3.29% !important;
+    color: #F49D00 !important;
+    font-family: Roboto !important;
+    font-size: 21px !important;
+    line-height: 28px !important;
+    margin-left: 55% !important;
+    float: left !important; }
+  
+  .manager-header2 {
+    height: 3.29% !important;
+    color: #F49D00 !important;
+    font-family: Roboto !important;
+    font-size: 21px !important;
+    line-height: 28px !important;
+    margin-top: -18px !important; }
+  
+  .manager-info-img1 {
+    border-radius: 50% !important;
+    float: left !important;
+    height: 60px !important;
+    width: 60px !important;
+    margin-top: 17px !important;
+    margin-left: -100px !important; }
+  
+  .manager-info-img2 {
+    border-radius: 50% !important;
+    height: 60px !important;
+    width: 60px !important;
+    margin-top: -24px !important; }
+  
+  .manager1-name {
+    float: left;
+    margin-top: 85px;
+    margin-left: -15%;
+    font-size: 14px;
+    line-height: 16px;
+    width: 110px;
+    color: #000000; }
+  
+  .manager1-desg {
+    float: left;
+    margin-top: 102px;
+    margin-left: -12%; }
+  
+  .manager2-name {
+    margin-top: 5px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000; }
+  
+  .manager2-desg {
+    margin-top: -8px;
+    margin-right: -3px; }
+  
+  .profileHeader {
+    margin-right: 15%; }
+  
+  .profileHeadermargin {
+    margin-top: 55px !important; }
+  

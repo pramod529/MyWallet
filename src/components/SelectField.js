@@ -43,7 +43,7 @@ class SelectField extends React.Component {
       <div className="section">
         <Select.Creatable
           multi={multi}
-          options={this.props.valuee}
+          options={this.props.value}
           onChange={this.handleOnChange.bind(this)}
           value={multi ? multiValue : value}
           placeholder={this.props.placeholder}

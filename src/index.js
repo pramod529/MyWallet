@@ -11,6 +11,7 @@ import AddToWallet from './components/AddToWallet';
 import ExpenseItem from './components/ExpenseItem';
 import Home from './components/Home';
 import './index.css';
+import Header from './Header/Header';
 
 const client = new ApolloClient({
   link: new HttpLink({ uri: process.env.REACT_APP_SERVER_URL }),
@@ -37,11 +38,7 @@ const render = Component => {
   ReactDOM.render(
     <Router>
       <ApolloProvider client={client}>
-        <PropsRoute
-          path="/charts/:chartId"
-          component={Component}
-          client={client}
-        />
+        <Header />
         <Route exact path="/Expense" component={ExpenseItem} />
         <Route exact path="/AddToWallet" component={AddToWallet} />
         <Route exact path="/home" component={Home} />

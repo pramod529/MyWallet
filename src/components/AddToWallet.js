@@ -3,6 +3,7 @@ import { withRouter, Link } from 'react-router-dom';
 import { graphql } from 'react-apollo';
 import gql from 'graphql-tag';
 import SelectField from './SelectField';
+import '../dist/style.css';
 const category = [{ github: 'jedwatson', name: 'Jed Watson' }];
 export default class AddExpense extends React.Component {
   constructor(props) {

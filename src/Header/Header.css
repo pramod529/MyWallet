@@ -1,0 +1,40 @@
+#header #header-content {
+  align-items: center;
+  background-color: #212121;
+  display: flex;
+  height: 55px;
+  justify-content: space-between;
+  padding: 3px;
+  width: 100%; }
+  #header #header-content h5 {
+    color: #ffffff;
+    font-size: 21px;
+    margin: 5px 5px 5px 30px; }
+  #header #header-content .face-icon {
+    border-radius: 50%;
+    height: 45px;
+    /* position: absolute; 
+    top: 5px;*/
+    width: 45px; 
+  margin-right: 3%;}
+  #header #header-content .header__user-menu-button {
+    align-items: center;
+    display: flex;
+    margin: 0; }
+  #header #header-content .md-background--primary,
+  #header #header-content .md-btn:hover {
+    background-color: transparent; }
+  #header #header-content .md-fake-btn {
+    height: 40px; }
+#header p{
+  color: white;
+}
+#header #header-content .date_text
+{
+  margin-top: 2px;
+  margin-right: 16px;
+}
+#header #header-content .username_text
+{
+  margin-left: 71%;
+}

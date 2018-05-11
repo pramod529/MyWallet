@@ -1,0 +1,44 @@
+@import '../../variables.scss';
+
+// This file covers SCSS for all components within the header
+
+#header {
+  #header-content {
+    align-items: center;
+    background-color: $black;
+    display: flex;
+    height: 55px;
+    justify-content: space-between;
+    padding: 3px;
+    width: 100%;
+
+    h5 {
+      color: $white;
+      font-size: $font-size-large;
+      margin: 5px 5px 5px 30px;
+    }
+
+    .face-icon {
+      border-radius: 50%;
+      height: 45px;
+      position: absolute;
+      top: 5px;
+      width: 45px;
+    }
+
+    .header__user-menu-button {
+      align-items: center;
+      display: flex;
+      margin: 0;
+    }
+
+    .md-background--primary,
+    .md-btn:hover {
+      background-color: transparent;
+    }
+
+    .md-fake-btn {
+      height: 40px;
+    }
+  }
+}
