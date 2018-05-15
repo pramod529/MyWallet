@@ -13,7 +13,7 @@ import App from './App';
 import AddToWallet from './components/AddToWallet';
 import ExpenseItem from './components/ExpenseItem';
 import Home from './components/Home';
-import '../stylesheets/index.css';
+import './index.css';
 import Header from './Header/Header';
 
 const client = new ApolloClient({
